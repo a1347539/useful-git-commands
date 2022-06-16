@@ -1,4 +1,4 @@
- git remote add origin https://github.com/intelligentdesignhk/thermal_inspection
+ git remote add origin url
 
 
 git remote set-url origin url
